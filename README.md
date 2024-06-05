@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**mesutf/mesutf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 # 💫 About Me:
 I'm currently studying Data Analytics in Spiced Academy<br>I'm currently learning Python<br>I am looking for help with programming languages
