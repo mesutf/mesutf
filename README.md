@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-I'm currently studying Data Analytics in Spiced Academy<br>I'm currently learning Python<br>I am looking for help with programming languages
+I'm graduated from Data Analytics in Spiced Academy.
 
 
 ## 🌐 Socials:
